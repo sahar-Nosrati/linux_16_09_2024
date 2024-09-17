@@ -1,1 +1,1 @@
-# linux_16_09_2024
+- Practice git, Linux
